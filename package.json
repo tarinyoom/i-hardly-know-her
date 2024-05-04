@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.8",
+    "phaser": "^3.80.1"
+  },
+  "name": "i-hardly-know-her",
+  "description": "This is a repository for exploring shaders in phaser. Just testing the waters.",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "prestart": "npx tsc",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarinyoom/i-hardly-know-her.git"
+  },
+  "keywords": [],
+  "author": "Adam C. Reynolds",
+  "bugs": {
+    "url": "https://github.com/tarinyoom/i-hardly-know-her/issues"
+  },
+  "homepage": "https://github.com/tarinyoom/i-hardly-know-her#readme"
+}
