@@ -10,7 +10,7 @@
     "typescript": "^5.4.5"
   },
   "scripts": {
-    "prestart": "npx tsc",
+    "prestart": "npx tsc && webpack",
     "start": "node server.js"
   },
   "repository": {
