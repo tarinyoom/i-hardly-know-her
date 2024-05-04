@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/tarinyoom/shader-foundry.git"
   },
-  "keywords": [],
+  "keywords": ["shader", "shader", "graphics", "phaser"],
   "author": "Adam C. Reynolds",
   "bugs": {
     "url": "https://github.com/tarinyoom/shader-foundry/issues"
